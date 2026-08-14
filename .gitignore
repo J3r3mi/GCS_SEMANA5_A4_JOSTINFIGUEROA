@@ -1,0 +1,13 @@
+# Configuración sensible
+config/.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+.venv/
+venv/
+
+# VS Code
+.vscode/
