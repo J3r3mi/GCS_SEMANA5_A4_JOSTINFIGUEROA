@@ -1,11 +1,11 @@
-# SRS v1 (mínimo)
+# SRS v1
 
 REQ-001: El sistema permitirá listar productos.
 
 REQ-002: El sistema permitirá agregar productos con cantidad >= 0.
 
+REQ-003: El sistema permitirá filtrar productos por fecha de registro.
+
 RNF-001: Los cambios deben ser trazables a un ISSUE y evidencias.
 
 RNF-002: El versionado seguirá SemVer con tags y changelog.
-
-REQ-003: El sistema permitirá filtrar productos por fecha (pendiente de definir criterios).
