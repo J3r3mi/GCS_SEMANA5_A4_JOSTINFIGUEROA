@@ -1,4 +1,7 @@
 # Configuración sensible
+.env
+.env.*
+!.env.example
 config/.env
 
 # Python
